@@ -117,7 +117,10 @@ Nous pouvons remarquer que, les clients qui se désabonne sont detectés à 92%.
 Cette figure classe les variables selon leur imporatance dans la classification. Les 5 variables les plus importantes pour ce modèle sont : AGE , Balance , CrediScore, Tenure et Greography.
 
 
-# B - Churn Modelling : Building ANN
+# B - Churn Modelling : Building ANN (Artificial Neural Network)
+Un réseau de neurones artificiels dans le domaine de l'intelligence articielle, est un ensemble organisé de neurones interconnectés permettant la résolution 
+de problèmes complexes. Dans notre cas, on l'utilise pour prédire le phénomène de churn d'une banque.
+
 ## - Résultats
 |              | precision | recall | f1-score | support |
 |--------------|-----------|--------|----------|---------|
