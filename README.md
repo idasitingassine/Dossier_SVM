@@ -80,6 +80,7 @@ On note une absence totale de corrélation entre nos variables quantitatives ce 
 # A - Modèles SVM (Support Vector Machine) 
 Les SVM sont une famille d'algorithme de Machine Learning très populaire pour la résolution d'un problème de classification à l'instar de l'attribution de catégories, l'analyse des sentiments, la détection de spams ou de régression. 
 Nous concernant, on les utilises dans un problème de classification des churn d'une banque.
+
 Avant l'implémentation des modèles, nous avons jugé nécessaire de rééquilibrer nos données afin d'avoir des meilleurs prévisions.
 
 ## 1 - Rééquilibrage des données
